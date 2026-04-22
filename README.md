@@ -10,7 +10,7 @@ Olá! Me chamo João Renato, tenho 18 anos e sou natural do Pará. Atualmente es
  
 #
 
-<img align="right" alt="" height="190px" src="" >
+<img align="right" alt="" height="190px" src="src/study.gif" >
 
 <img>
 
